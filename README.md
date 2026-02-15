@@ -92,10 +92,6 @@ Develop SQL-based analytics to provide insights into:
 
 These insights support data-driven strategic decision-making.
 
-For more details, refer to:  
-`docs/requirements.md`
-
 ---
 
-# 📂 Repository Structure
 
